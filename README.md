@@ -28,5 +28,5 @@ Add CSS styling for better visuals
 Make it responsive for mobile and tablet
 
 Add JavaScript for interactivity
-# Image lke this 
+# Image like this 
 <img width="1907" height="923" alt="Weekly time table " src="https://github.com/user-attachments/assets/50c365da-b862-4c12-83f2-0b3a9803df3d" />
